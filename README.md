@@ -19,7 +19,7 @@
     - [Setup](#setup)
     - [Install](#install)
     - [Usage](#usage)
-  - [👥 Author ](#-author-)
+  - [👥 Authors ](#-authors-)
   - [🔭 Future Features ](#-future-features-)
   - [🤝 Contributing ](#-contributing-)
   - [⭐️ Show your support ](#️-show-your-support-)
@@ -93,13 +93,18 @@ it will install the required gemfile for running the project
 
 <!-- AUTHORS -->
 
-## 👥 Author <a name="author"></a>
+## 👥 Authors <a name="author"></a>
 
 👤 **Khanh**
 
 - GitHub: [khanh-devos](https://github.com/khanh-devos)
 - Twitter: [@khanhror](https://twitter.com/home?lang=en)
 - LinkedIn: [Khanh RoR](https://www.linkedin.com/in/khanh-dom/)
+
+👤 **Ayomide**
+
+- GitHub: [Paulinelali](https://github.com/Paulinelali)
+- LinkedIn: [Ayomide](https://www.linkedin.com/in/ayomide-sunday-emmanuel/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

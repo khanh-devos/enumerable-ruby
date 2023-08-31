@@ -9,9 +9,9 @@ module MyEnumerable
     false
   end
 
-#   def filter(&block)
-#     result = []
-#     @list.each { |item| result << item if block.call(item) }
-#     result
-#   end
+  def filter(&block)
+    result = []
+    @list.each { |item| result << item if block.call(item) }
+    result
+  end
 end
