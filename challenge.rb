@@ -7,7 +7,7 @@ class Mylist
     @list = *values
   end
 
-  def each(&block)
+  def myEach(&block)
     @list.each(&block)
   end
 end
